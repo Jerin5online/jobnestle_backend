@@ -1,0 +1,48 @@
+{
+  "Recruit": [
+    {
+      "jobtitle": "Frontend Developer",
+      "Cname": "Google",
+      "Curl": "www.google.com",
+      "desc": "Ui develepor",
+      "jobtype": "Contract",
+      "jobplace": "Remote",
+      "vacancy": "4",
+      "experience": "3",
+      "id": 1
+    },
+    {
+      "jobtitle": "js developer",
+      "Cname": "google",
+      "Curl": "www.google.com",
+      "desc": "js engineer",
+      "jobtype": "Part time",
+      "jobplace": "Remote",
+      "vacancy": "3",
+      "experience": "2",
+      "id": 2
+    },
+    {
+      "jobtitle": "backend developer",
+      "Cname": "Cognizant",
+      "Curl": "www.cognizant.com",
+      "desc": "Accountant",
+      "jobtype": "Fulltime",
+      "jobplace": "In-office",
+      "vacancy": "2",
+      "experience": "3",
+      "id": 3
+    }
+  ],
+  "AppliedJobs": [
+    {
+      "cname": "jerin",
+      "cno": "9879688576",
+      "cemail": "sdfghjkl@gmail.com",
+      "cqual": "Diploma",
+      "company": "Cognizant",
+      "jtitle": "backend developer",
+      "id": 1
+    }
+  ]
+}
